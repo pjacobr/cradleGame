@@ -32,3 +32,18 @@ various clients that are connected.
 ## Client
 The client will be the user interface for the game. It will connect with the server and maitain an 
 open socket.
+
+## TODO
+List
+- [ ] Get linter up and going
+- [ ] Get tests up and going
+- [ ] Set up pre hook commits
+- [ ] Get server up and running with clients talking to it and sharing information
+- [ ] Get Model, View, Controller stuff all figured out.
+- [ ] Create mortal combat
+  - [ ] Gameplay logic
+  - [ ] Models
+  - [ ] Server communication
+  - [ ] Art and visuals
+- [ ] Create gameplay for maze solver
+- [ ] Create social chat room logic
